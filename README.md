@@ -33,3 +33,10 @@ You need SDL2-2.0.10 version to run this program. If it doesn't work try to copy
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+![Game Screenshot](Screenshots/menu.png)
+![Game Screenshot](Screenshots/level1.png)
+![Game Screenshot](Screenshots/level2.png)
+![Game Screenshot](Screenshots/level3.png)
+
